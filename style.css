@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+button {
+    height: 40px;
+    width: 120px;
+    background-color: RED;
+    color: black;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: red;
+}
